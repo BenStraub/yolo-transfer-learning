@@ -1,0 +1,4 @@
+train: data/images/train  # path to training images
+val: data/images/val      # path to validation images
+nc: 2                     # number of classes (adjust accordingly)
+names: ['caffee', 'unknown']  # class names
